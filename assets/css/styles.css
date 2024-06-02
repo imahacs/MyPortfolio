@@ -496,7 +496,7 @@ img {
     align-items: center;
 }
 
-.work__img:hover .overlay {
+.work__img .overlay {
     opacity: 1;
 }
 
